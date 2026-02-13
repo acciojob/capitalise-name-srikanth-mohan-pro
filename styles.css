@@ -1,6 +1,3 @@
 /*  your css code here. If applicable */
 /*  your css code here. If applicable */
-const input=document.getElementById("fname");
-input.addEventListener("blur",function(){
-input.value=input.value.toUpperCase();
-});
+
